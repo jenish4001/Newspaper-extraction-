@@ -1,2 +1,2 @@
-# Newspaper-extraction-
+# Newspaper-extraction
 Project in Python
